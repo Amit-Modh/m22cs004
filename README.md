@@ -25,10 +25,10 @@ docker build -t flask-hello-world .
 ```
 
 -As the image will be created, we can see the name of the image from the docker container.
-![Alt text](<../../Pictures/Screenshots/Screenshot (187).png>)
+![Alt text](<Screenshot (187).png>)
 
 -Docker file looks like this:
-![Alt text](<../../Pictures/Screenshots/Screenshot (190).png>)
+![Alt text](<Screenshot (190).png>)
 
 
 -To check the Container ID:
