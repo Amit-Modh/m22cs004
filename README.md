@@ -25,10 +25,10 @@ docker build -t flask-hello-world .
 ```
 
 -As the image will be created, we can see the name of the image from the docker container.
-![Alt text](<Screenshot (187).png>)
+![Alt text](<images/Screenshot (187).png>)
 
 -Docker file looks like this:
-![Alt text](<Screenshot (190).png>)
+![Alt text](<images/Screenshot (190).png>)
 
 
 -To check the Container ID:
@@ -46,7 +46,7 @@ docker run -p 5000:5000 flask-hello-world
 - Run the IP address.
 
 Output: (My simple Web App)
-![Alt text](<Screenshot (186).png>)
+![Alt text](<images/Screenshot (186).png>)
 
 -Add, Commit, Push to github.
-![Alt text](<Screenshot 2023-09-24 022013.png>)
+![Alt text](<images/Screenshot 2023-09-24 022013.png>)
